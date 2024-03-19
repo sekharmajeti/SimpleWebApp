@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>  Dewali Mobile & Laptop offers available till 1st December2023... </h1>   
+         <h1>  Dewali Mobile & Laptop offers available till 1st April2024... </h1>   
 	 
 
     </section>    
