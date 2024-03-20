@@ -60,7 +60,7 @@ section{
 }
 
 #about{
-     background-color: #ED6663;
+     background-color: #690718;
 }
 
 #product{
